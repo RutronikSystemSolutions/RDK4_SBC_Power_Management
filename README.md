@@ -4,6 +4,8 @@ Rutronik Development Kit 4 Programmable System-on-Chip CY8C4149AZE-S598 "SBC Pow
 
  <img src="images/rdk4_sbc_thermal.png" style="zoom:100%;" />
 
+System Basis Chip TLE9262-3BQX power supply VCC3 under test. Arduino 3.3V power terminal loaded with 14.5 Ohms resistor.
+
 ## Requirements
 
 - [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v3.0
