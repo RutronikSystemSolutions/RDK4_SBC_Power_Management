@@ -8,7 +8,7 @@ System Basis Chip TLE9262-3BQX power supply VCC3 under test. Arduino 3.3V power 
 
 ## Requirements
 
-- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v3.1
+- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v2025.4.0
 - The latest hardware release [RDK4 Rev2](https://github.com/RutronikSystemSolutions/RDK4_Hardware_Files).
 
 ## Supported toolchains (make variable 'TOOLCHAIN')
